@@ -209,3 +209,23 @@ End of sponsors section */
 }
 
 
+#sponsor-heading{
+    transform: scale(0.7);
+}
+
+
+#sponsor-heading{
+    transform: scale(0.7);
+}
+
+.contact-title{
+    transform: scale(0.5);
+}
+
+#address{
+    transform: scale(0.7);
+}
+
+#dateloc{
+    margin-top: 30%;
+}
