@@ -43,8 +43,8 @@ var x = setInterval(function() {
     // When event ended
     } else {
         document.getElementById("timer").innerHTML =
-                "<span style='font-size:30px;vertical-align: middle;text-align: center; color:#000'>"
-                + "Event Ended :/"
+                "<span style='font-size:20px;vertical-align: middle;text-align: center; color:#ffffff;'>"
+                + "Opening soon"
                 + "</span>";
     }
   }
