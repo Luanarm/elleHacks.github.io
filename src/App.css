@@ -1,8 +1,3 @@
-.App {
-  /* text-align: center; */
-  background-color: #853536;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -50,4 +45,5 @@ line-height: normal;
 } */
 body{
   background-color: #853536;
+
 }

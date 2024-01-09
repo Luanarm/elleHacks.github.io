@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Dont forget to write down all of your updates 
+=======
 ***************************
         Update Log
     ElleHacks Website
@@ -118,3 +121,4 @@ Adjusted the image section for hackers, volunteers, and mentors:
     - Added new class(w-col-13) within components.css for new ratios
 Changed colors for background words "Inspire" and "Change":
     - Adjusted colors within elle-hacks.css and elle-hacks-10.css (unsure of the difference between each file as it was created by the previous developer).
+>>>>>>> 8498b78810bde5111d6f172200b11dee345edf89
