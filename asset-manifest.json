@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/ellehacks.github.io/static/css/main.1b2c11f4.css",
-    "main.js": "/ellehacks.github.io/static/js/main.a0d17bbb.js",
+    "main.css": "/ellehacks.github.io/static/css/main.286ae8fe.css",
+    "main.js": "/ellehacks.github.io/static/js/main.d8c48a2e.js",
+    "static/js/787.cc2aee18.chunk.js": "/ellehacks.github.io/static/js/787.cc2aee18.chunk.js",
     "static/media/ElleHacks2024-06.jpg": "/ellehacks.github.io/static/media/ElleHacks2024-06.37e22afdf27a129fe56e.jpg",
     "static/media/ElleHacks2024-02.jpg": "/ellehacks.github.io/static/media/ElleHacks2024-02.6c16576a8a44bacf721d.jpg",
     "static/media/logo.png": "/ellehacks.github.io/static/media/logo.2923bc2199213c5ae350.png",
@@ -19,11 +20,12 @@
     "static/media/Green.png": "/ellehacks.github.io/static/media/Green.546cffc568cfb81a1c8c.png",
     "static/media/Simplification.png": "/ellehacks.github.io/static/media/Simplification.f116b67c5833bf32121b.png",
     "index.html": "/ellehacks.github.io/index.html",
-    "main.1b2c11f4.css.map": "/ellehacks.github.io/static/css/main.1b2c11f4.css.map",
-    "main.a0d17bbb.js.map": "/ellehacks.github.io/static/js/main.a0d17bbb.js.map"
+    "main.286ae8fe.css.map": "/ellehacks.github.io/static/css/main.286ae8fe.css.map",
+    "main.d8c48a2e.js.map": "/ellehacks.github.io/static/js/main.d8c48a2e.js.map",
+    "787.cc2aee18.chunk.js.map": "/ellehacks.github.io/static/js/787.cc2aee18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b2c11f4.css",
-    "static/js/main.a0d17bbb.js"
+    "static/css/main.286ae8fe.css",
+    "static/js/main.d8c48a2e.js"
   ]
 }
