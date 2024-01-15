@@ -69,7 +69,7 @@ class Home extends Component {
             ElleHacks <span style={mainNum}>2024</span>
           </h1>
           <div style={mainDateTime} id="Main-Text">
-            <p style={mainDateTime}>Febuary 17-19, 2024 </p>
+            <p style={mainDateTime}>Febuary 16-18, 2024 </p>
             <p style={mainLocation}>York University, Toronto, ON </p>
           </div>
           <Button variant="link" href="https://docs.google.com/forms/d/e/1FAIpQLScgC8tMJAb8RJmOTAdPYisk_pyDoVxosDGI7Bqq51Dr4AhnCQ/viewform?pli=1" style={apply}>Applications are open</Button>
