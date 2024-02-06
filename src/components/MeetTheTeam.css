@@ -1,0 +1,170 @@
+
+  :root {
+    --margin: 0.5%;
+    --border-radius: 0.5%;
+    --padding: 0.25%;
+    --padding-left: 0.5%;
+    --padding-right: 0.5%;
+    --transition-duration: 0.3s;
+    --image-width: 10vh;
+    --image-height: 10vh;
+    --border-width: 0.25vh;
+    --name-max-width: 10vh;
+    --font-size: 1.2vh;
+    --margin-block-start: 1vh;
+    --margin-inline-start: 0;
+    --margin-inline-end: 0;
+  }
+  .team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .team-member {
+    margin: 1%;
+    border-radius: 1%;
+    padding: 0.5%;
+    padding-left: 1%;
+    padding-right: 1%;
+    transition: var(--transition-duration);
+    transition-duration: var(--transition-duration);
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    text-align: center;
+  }
+
+  .team-member:hover {
+    box-shadow: 4px 4px 20px 0 rgb(0, 0, 0, 40%), -4px -4px 20px 0 rgba(252, 92, 92, 0.8);
+  }
+
+  /* Images */
+
+  .image {
+    width: var(--image-width);
+    height: var(--image-height);
+  }
+
+  .team-img {
+    display: block;
+    margin: 0 auto;
+    width: var(--image-width);
+    height: var(--image-height);
+    border-radius: 100%;
+    /* border: solid #8872AB; */
+    border-bottom: solid var(--border-width) #A45555; 
+  }
+
+  /* Name and title */
+
+  .team-name {
+    color: white;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 0;
+    max-width: var(--name-max-width);
+  }
+
+  .team-title {
+    color: white;
+    font-style: normal;
+    text-align: center;
+    margin-top: var(--margin);
+    font-size: 1.5vh; 
+  }
+
+  .team-member h4 {
+    display: block;
+    font-size: var(--font-size);
+    margin-block-start: var(--margin-block-start);
+    /* margin-block-end: 1.33em; */
+    margin-inline-start: var(--margin-inline-start);
+    margin-inline-end: var(--margin-inline-end);
+    font-weight: bold;
+  }
+
+  @media only screen and (max-width: 600px) {
+    :root {
+      --margin: 0.5%;
+      --border-radius: 0.5%;
+      --padding: 0.25%;
+      --padding-left: 0.5%;
+      --padding-right: 0.5%;
+      --transition-duration: 0.3s;
+      --image-width: 4vh;
+      --image-height: 4vh;
+      --border-width: 0.25vh;
+      --name-max-width: 10vh;
+      --font-size: 1.2vh;
+      --margin-block-start: 1vh;
+      --margin-inline-start: 0;
+      --margin-inline-end: 0;
+    }
+  
+    .team-member {
+      margin: 1%;
+      border-radius: 1%;
+      padding: 0.5%;
+      padding-left: 1%;
+      padding-right: 1%;
+      transition: var(--transition-duration);
+      transition-duration: var(--transition-duration);
+      transition-timing-function: ease;
+      transition-delay: 0s;
+      transition-property: all;
+      text-align: center;
+    }
+  
+    .team-member:hover {
+      box-shadow: 4px 4px 20px 0 rgb(0, 0, 0, 40%), -4px -4px 20px 0 rgba(252, 92, 92, 0.8);
+    }
+  
+    /* Images */
+  
+    .image {
+      width: var(--image-width);
+      height: var(--image-height);
+    }
+  
+    .team-img {
+      display: block;
+      margin: 0 auto;
+      width: var(--image-width);
+      height: var(--image-height);
+      border-radius: 100%;
+      /* border: solid #8872AB; */
+      border-bottom: solid var(--border-width) #A45555; 
+    }
+  
+    /* Name and title */
+  
+    .team-name {
+      color: white;
+      font-style: normal;
+      text-align: center;
+      margin-bottom: 0;
+      max-width: var(--name-max-width);
+    }
+  
+    .team-title {
+      color: white;
+      font-style: normal;
+      text-align: center;
+      margin-top: var(--margin);
+      font-size: 1vh; /* Adjust the value as needed */
+    }
+  
+    .team-member h4 {
+      display: block;
+      font-size: var(--font-size);
+      margin-block-start: var(--margin-block-start);
+      /* margin-block-end: 1.33em; */
+      margin-inline-start: var(--margin-inline-start);
+      margin-inline-end: var(--margin-inline-end);
+      font-weight: bold;
+    }
+  }
+  
+  
